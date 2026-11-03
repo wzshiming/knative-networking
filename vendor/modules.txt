@@ -122,7 +122,7 @@ github.com/googleapis/gax-go/v2
 github.com/googleapis/gnostic/compiler
 github.com/googleapis/gnostic/extensions
 github.com/googleapis/gnostic/openapiv2
-# github.com/gorilla/websocket v1.4.2
+# github.com/gorilla/websocket v1.5.3
 ## explicit
 github.com/gorilla/websocket
 # github.com/grpc-ecosystem/grpc-gateway v1.14.8

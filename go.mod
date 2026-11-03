@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/google/go-cmp v0.5.5
-	github.com/gorilla/websocket v1.4.2
+	github.com/gorilla/websocket v1.5.3
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/rs/dnscache v0.0.0-20210201191234-295bba877686
 	go.uber.org/atomic v1.7.0
